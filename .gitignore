@@ -1,0 +1,29 @@
+# Scala related
+/target/
+/lib_managed/
+/project/project
+/project/target/
+/build/
+/.scala_dependencies
+
+# IntelliJ IDEA
+.idea/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# SBT
+/.idea_modules/
+/.metals/
+/.bsp/sbt.json
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+*.log.*
